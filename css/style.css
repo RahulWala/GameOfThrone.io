@@ -6,5 +6,6 @@ body{
 }
 a{
 	text-decoration: none;
+	word-wrap: break-word;
 	color:#292B2C;
 }
