@@ -1,10 +1,12 @@
 body{
-	font-family: 'Kotta One 20px', sans-serif;
+	font-family: 'Kotta One', sans-serif;
+	font-size: 1.2em;
 }
 .navbar{
 	font-family: 'Nosifer', cursive;
 }
 a{
 	text-decoration: none;
+	word-break: break-all;
 	color:#292B2C;
 }
