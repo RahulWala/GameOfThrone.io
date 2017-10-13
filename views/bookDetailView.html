@@ -25,7 +25,7 @@
 			    <div class="col-lg-6 col-md-12 col-sm-12">
 			    	<div class="card mt-1">
 			    		<div class="card-header">Main Characters</div>
-					    <a href='#!characters/{{pov.split("/").pop()}}' ng-repeat="pov in book.povCharacters">{{pov.replace('https://www.anapioficeandfire.com/api/characters/','Character ')}}<br></a>
+					    <a href='#!characters/{{pov.split("/").pop()}}' ng-repeat="pov in book.povCharacters">{{pov.replace('https://','')}}<br></a>
 					</div>
 			    	<div class="card mt-1">
 			    		<div class="card-header">Characters</div>
