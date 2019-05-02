@@ -1,10 +1,11 @@
 body{
-	font-family: 'Allerta Stencil', sans-serif;
+	font-family: 'Kotta One', sans-serif;
 }
 .navbar{
 	font-family: 'Nosifer', cursive;
 }
 a{
 	text-decoration: none;
+	word-wrap:break-word;
 	color:#292B2C;
 }
